@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm barnoun</h1>
-<h3 align="center">I love hacking , robotics , low level shit</h3>
+<h3 align="center">I love hacking , linux , robotics </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=barnoun0&label=Profile%20views&color=0e75b6&style=flat" alt="barnoun0" /> </p>
 
